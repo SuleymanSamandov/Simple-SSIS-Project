@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Data Project", "Data Project\Data Project.dtproj", "{D01D2371-4258-4CCB-9362-9E1F9DE4C90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01D2371-4258-4CCB-9362-9E1F9DE4C90C}.Development|Default.ActiveCfg = Development
+		{D01D2371-4258-4CCB-9362-9E1F9DE4C90C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD40EB38-11D3-4E1B-AC08-06D63BB391B3}
+	EndGlobalSection
+EndGlobal
